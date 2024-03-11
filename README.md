@@ -11,4 +11,5 @@
 
 
 
+![Simulator Screen Recording - iPhone 14 Pro - 2024-03-11 at 10 45 29](https://github.com/sparknanayamamoto/CocktailApp/assets/156158268/cce533d9-a785-4d04-9ba9-c231256bea9d)
 
